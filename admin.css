@@ -1,0 +1,20 @@
+
+* {box-sizing: border-box}
+body {font-family: "Lato", sans-serif;}
+
+table,td,tr{
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px 20px;
+}
+th{
+  background-color: #04AA6D;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 20px;
+}
+.updateform{
+  margin-top: 50px;
+  margin-left: 30%;
+}
